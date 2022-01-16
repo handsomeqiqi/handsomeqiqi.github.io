@@ -42,7 +42,6 @@
 </head>
 
 <body>
-<a href="About.html">About</a>
 <a href="https://jajgckcchwqk4cs1.maps.arcgis.com/apps/instant/nearby/index.html?appid=6db34883d9194abf8d54806b5ef17a43" target="_blank">Explore</a>
     <section>
 		<div class="main_header">  
