@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
  <meta charset="UTF-8">
@@ -62,7 +61,7 @@
 	    </div>
 
 	    <div class="set">
-		      <div><img src="https://github.com/handsomeqiqi/animation/blob/main/1.png"></div>
+		          <div><img src="1.png"></div>
 			  <div><img src="2.png"></div>
 			  <div><img src="4.png"></div>
 			  <div><img src="5.png"></div>
